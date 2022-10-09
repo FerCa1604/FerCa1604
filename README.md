@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá pessoal! Eu sou a Fernanda.
 
-<!--
-**FerCa1604/FerCa1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como analista administrativa numa empresa pública.
+- 🔭 Tenho 18 anos de experiência em licitações e 02 em contas a pagar.
+- 🌱 Estudo desenvolvimentod de sistemas na ETEC.
+- 🌱 Sou fornada em administração de empresas e tenho licenciatura em pedagogia.
+<div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=FerCa1604&show_icons=true&theme=dark"/>
+<img height="160cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=FerCa1604&layout=compact"/>
+<img height="160cm" src=(https://github.com/FerCa1604/github-readme-stats)                  
+</div>
+                   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>        
+<img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />                                                                                              
+</div>                                                                                                                                               
