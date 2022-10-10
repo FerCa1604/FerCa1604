@@ -1,7 +1,7 @@
 ### Olá pessoal! Eu sou a Fernanda.
 
 - 🔭 Atualmente trabalho como analista administrativa numa empresa pública.
-- 🔭 Tenho 18 anos de experiência em licitações e 02 em contas a pagar.
+- 🔭 Tenho 18 anos de experiência em compras e licitações; Na área financeira - 02 anos atuando em contas a pagar.
 - 🌱 Estudo desenvolvimento de sistemas na ETEC.
 - 🌱 Sou formada em administração de empresas e tenho licenciatura em pedagogia.
 <div>
